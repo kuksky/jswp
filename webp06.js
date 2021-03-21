@@ -1,4 +1,4 @@
-window.ruxsat = false;
+window.rxt = false;
 function detectWebP() {
     /*
      * detecteaza WEBP capabilitate a browserului
